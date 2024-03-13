@@ -8,5 +8,4 @@ A keylogger is a program that captures keystrokes typed on a keyboard. This impl
 Features
 
 Captures key press events 
-
 Logs key press events to the console
